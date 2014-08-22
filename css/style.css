@@ -1,0 +1,27 @@
+@charset "UTF-8";
+img {
+	height: auto;
+	max-width: 100%;
+}
+.intro {
+	background-position: center center;
+	background-image: url(../images/branche-bg-01.jpg);
+	background-repeat: no-repeat;
+	padding: 30px 0;
+}
+.intro-header {
+	text-align: center;
+}
+.intro-family-image {
+	box-sizing: border-box;
+	float: left;
+	list-style-type: none;
+	margin: 15px;
+}
+.intro-family-image-big {
+	width: 280px;	
+}
+.intro-family-image-small {
+	padding-top: 90px;
+	width: 140px;	
+}
